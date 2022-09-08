@@ -1,4 +1,4 @@
-data <- read.csv("Uber_Category_500.csv",stringsAsFactors = TRUE )
+data <- read.csv("data.csv",stringsAsFactors = TRUE )
 
 #Splitting the dataset
 library("caret")
